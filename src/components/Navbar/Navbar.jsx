@@ -5,7 +5,8 @@ const Navbar = () => {
   return (
     <>
     <header>
-        <img  className='nav_Logo' alt='nav_Logo'/>
+        {/* <img  className='nav_Logo' alt='nav_Logo'/> */}
+        <h1 className='h1 text-white font-weight-bold'>ELV drive.</h1>
         <nav>
             <ul className='nav__Links'>
             <li className='active'><a href='#home'>Home</a></li>

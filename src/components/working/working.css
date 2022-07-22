@@ -1,0 +1,30 @@
+.working_Container{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+p,h1,h3{
+    color: white;
+    padding: 0.5rem;
+
+}
+
+.underline{
+    width: 100px;
+    border-bottom: 1rem;
+    background-color: white;
+    height: 3px;
+}
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.working_Img{
+    width: 700px;
+    height: auto;
+}
+
+
+
