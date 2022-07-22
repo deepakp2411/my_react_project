@@ -1,0 +1,66 @@
+.scooty_Container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.scooty {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
+
+.social {
+    flex: 1;
+}
+
+.google_PlayStore,
+.apple_Store {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 2rem;
+    background-color: white;
+    justify-content: space-between;
+    align-items:flex-start;
+   
+}
+.play_Button{
+    width: 200px;
+    height: 50px;
+    display: flex;
+    margin: 1rem;
+    padding: 1rem;
+    justify-content:flex-start;
+    align-items:flex-start;
+    color: white;
+
+}
+
+
+p {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: bold;
+}
+h3{
+    font-size: 18px;
+    padding-left: 1rem;
+}
+
+.google,
+.apple , .play_button {
+    width: 100%;
+    max-width: 20px;
+    height: auto;
+
+}

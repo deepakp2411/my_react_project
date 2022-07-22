@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200&family=Handlee&family=Mali:wght@300&family=Playfair+Display+SC&family=Poppins:ital,wght@0,300;0,400;0,600;1,200;1,300&family=Ubuntu:ital,wght@0,300;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200&family=Handlee&family=Italianno&family=Mali:wght@300&family=Playfair+Display+SC&family=Poppins:ital,wght@0,300;0,400;0,600;1,200;1,300&family=Ubuntu:ital,wght@0,300;1,400&display=swap');
+
+
+.home_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.home_Logo{
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+
+}
+
+

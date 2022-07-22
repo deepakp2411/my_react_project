@@ -1,0 +1,43 @@
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3rem 2rem;      
+}
+
+
+li a {
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+.nav_Logo{
+    cursor: pointer;
+    
+}
+.nav__Links{
+    list-style: none;
+}
+.nav__Links  li{
+
+    display:inline-block;
+    padding: 0 2rem;
+}
+
+.nav__Links li a{
+    transition: all 0.5s ease-in-out;
+}
+.nav__Links > .active{
+    text-decoration: underline;
+}
+.nav__Links li a:hover{
+    color: red;
+    
+}
+
