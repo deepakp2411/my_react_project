@@ -17,6 +17,17 @@ p,h1,h3{
     background-color: white;
     height: 3px;
 }
+.shield_Container{
+    display: flex;
+    align-items: flex-start;
+    justify-content:flex-start;
+    margin-top: 1rem;
+}
+.shield{
+    width: 100%;
+    max-width: 40px;
+    height: auto;
+}
 h1{
     font-size: 2rem;
     font-weight: bold;
