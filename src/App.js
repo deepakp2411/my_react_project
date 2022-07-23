@@ -1,4 +1,5 @@
 import React from 'react'
+import Contact from './components/contact/Contact'
 import Home from './components/Home/Home'
 import Scooty from './components/Home/Scooty'
 
@@ -12,7 +13,8 @@ const App = () => {
       <Navbar />
       {/* <Home />
       <Scooty /> */}
-      <Working />
+      {/* <Working /> */}
+      <Contact />
       
     </div>
   )
