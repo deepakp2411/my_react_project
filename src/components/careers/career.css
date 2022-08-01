@@ -1,0 +1,60 @@
+
+.career_container{
+    display: flex;
+    margin: 2rem;
+    
+}
+.career_info h1{
+    letter-spacing: 0.25rem;
+    color: black;
+  
+}
+.career_info > p{
+    color: black;
+    font-size: 1rem;
+}
+.black{
+    background-color: black;
+    color: white;
+    width: 200px;
+}
+
+.career_infoRight{
+    display: flex;
+    margin: 0.25rem;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: azure;
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+    margin-top: 4rem;
+    box-shadow: 2px 3px 8px;
+   
+
+}
+.career_infoRight >p{
+    color: black;
+    font-weight: bold;
+}
+h4{
+    font-weight: bold;
+}
+
+.career_infoRight img{
+    width: 100%;
+    max-width: 50px;
+    height: auto;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 3rem;
+    background-color: aqua;
+    border: none;
+    cursor: pointer;
+    box-shadow: -2px 2px 4px;
+}
