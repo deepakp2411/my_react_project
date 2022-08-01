@@ -1,5 +1,5 @@
 import React from 'react'
-import About from './components/about/About'
+
 import Home from './components/Home/Home'
 import Scooty from './components/Home/Scooty'
 
@@ -14,7 +14,7 @@ const App = () => {
       {/* <Home />
       <Scooty /> */}
       {/* <Working /> */}
-      <About />
+
       
     </div>
   )
